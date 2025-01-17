@@ -20,7 +20,7 @@ SESSION_ID: process.env.SESSION_ID || "MALVIN-XMD~wooXWIIA#X5yoVJq3a6gywJTcaySqW
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌 status auto seen
 
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌 if you want auto reply on status 
 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*Jᴜsᴛ Nᴏᴡ Sᴛᴀᴛᴜs Sᴇᴇɴ Bʏ Mᴀʟᴠɪɴ-Xᴍᴅ*",
@@ -50,9 +50,8 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "263714757857",
 OWNER_NAME: process.env.OWNER_NAME || "Mʀ Mᴀʟᴠɪɴ",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
-// add bot owner name 
-
+DESCRIPTION: process.env.DESCRIPTION || "*Geto-bot*",
+// add bot owner name
 MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/7pg2gp.jpg",
 //Don't change menu image ⚠️
 
@@ -86,7 +85,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
