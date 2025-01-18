@@ -64,13 +64,13 @@ LIVE_MSG: process.env.LIVE_MSG || "> ɴᴇᴠᴇʀ ᴀʟɪᴠᴇ ʙᴜᴛ ᴀᴡ
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 
-AUTO_REACT: process.env.AUTO_REACT || "true",
+AUTO_REACT: process.env.AUTO_REACT || "falce",
 // make this true or false for auto react on all msgs
 
 ANTI_BAD: process.env.ANTI_BAD || "false",
 //  1📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
-MODE: process.env.MODE || "private",
+MODE: process.env.MODE || "public ",
 // make bot public-private-inbox-group 
 
 ANTI_LINK: process.env.ANTI_LINK || "true",
